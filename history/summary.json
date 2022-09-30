@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.phpbb-fr.com",
     "slug": "php-bb-fr-com",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 806,
+    "timeDay": 806,
+    "timeWeek": 806,
+    "timeMonth": 806,
+    "timeYear": 806,
+    "dailyMinutesDown": {
+      "2022-09-20": 21
+    }
   },
   {
     "name": "Forum de démonstration",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/demo.phpbb-fr.com",
     "slug": "forum-de-demonstration",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 1029,
-    "timeWeek": 1029,
-    "timeMonth": 1029,
-    "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 5357,
+    "timeDay": 5357,
+    "timeWeek": 5357,
+    "timeMonth": 5357,
+    "timeYear": 5357,
+    "dailyMinutesDown": {
+      "2022-09-20": 20
+    }
   },
   {
     "name": "Base de connaissance",
@@ -41,17 +45,20 @@
     "icon": "https://favicons.githubusercontent.com/forum.phpbb-fr.com",
     "slug": "base-de-connaissance",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 798,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.57%",
+    "time": 5565,
+    "timeDay": 5565,
+    "timeWeek": 5565,
+    "timeMonth": 5565,
+    "timeYear": 5565,
+    "dailyMinutesDown": {
+      "2022-09-20": 20,
+      "2022-09-16": 171
+    }
   },
   {
     "name": "phpBB-fr DNS 1",
@@ -59,16 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "php-bb-fr-dns-1",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 660,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 651,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2022-09-20": 19
+    }
   }
 ]
