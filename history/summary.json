@@ -4,10 +4,10 @@
     "url": "https://www.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1914,
@@ -16,6 +16,7 @@
     "timeMonth": 1087,
     "timeYear": 1914,
     "dailyMinutesDown": {
+      "2023-09-12": 2,
       "2023-07-25": 80,
       "2023-05-21": 70,
       "2023-05-09": 64,
@@ -32,10 +33,10 @@
     "url": "https://demo.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 1821,
@@ -44,6 +45,7 @@
     "timeMonth": 1124,
     "timeYear": 1821,
     "dailyMinutesDown": {
+      "2023-09-12": 1,
       "2023-07-15": 97,
       "2023-06-09": 93,
       "2023-05-05": 61,
@@ -62,10 +64,10 @@
     "url": "http://forum.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.phpbb-fr.com.ico",
     "slug": "base-de-connaissance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1392,
@@ -74,6 +76,7 @@
     "timeMonth": 421,
     "timeYear": 1392,
     "dailyMinutesDown": {
+      "2023-09-12": 1,
       "2022-09-20": 20,
       "2022-09-16": 171
     }
@@ -83,9 +86,9 @@
     "url": "51.254.27.129",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "php-bb-fr-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +98,7 @@
     "timeMonth": 249,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2022-09-20": 19
     }
   }
