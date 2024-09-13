@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.28%",
-    "uptimeMonth": "79.91%",
-    "uptimeYear": "97.54%",
-    "time": 1447,
-    "timeDay": 5521,
-    "timeWeek": 3114,
-    "timeMonth": 3041,
-    "timeYear": 1518,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.63%",
+    "uptimeYear": "97.40%",
+    "time": 1455,
+    "timeDay": 5726,
+    "timeWeek": 3763,
+    "timeMonth": 3182,
+    "timeYear": 1528,
     "dailyMinutesDown": {
-      "2024-09-12": 63,
+      "2024-09-13": 64,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -61,8 +62,7 @@
       "2023-11-27": 26,
       "2023-11-26": 25,
       "2023-11-09": 24,
-      "2023-11-05": 24,
-      "2023-09-14": 461
+      "2023-11-05": 24
     }
   },
   {
@@ -71,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.29%",
-    "uptimeMonth": "79.92%",
-    "uptimeYear": "97.60%",
-    "time": 1337,
-    "timeDay": 9470,
-    "timeWeek": 3718,
-    "timeMonth": 2981,
-    "timeYear": 1415,
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.63%",
+    "uptimeYear": "97.46%",
+    "time": 1352,
+    "timeDay": 9459,
+    "timeWeek": 4269,
+    "timeMonth": 3232,
+    "timeYear": 1435,
     "dailyMinutesDown": {
-      "2024-09-12": 63,
+      "2024-09-13": 64,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -116,8 +117,7 @@
       "2024-02-25": 23,
       "2024-02-20": 18,
       "2023-12-11": 22,
-      "2023-10-11": 51,
-      "2023-09-14": 461
+      "2023-10-11": 51
     }
   },
   {
@@ -130,16 +130,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.50%",
-    "time": 524,
-    "timeDay": 8545,
-    "timeWeek": 3663,
-    "timeMonth": 2251,
-    "timeYear": 570,
+    "uptimeYear": "99.63%",
+    "time": 533,
+    "timeDay": 5133,
+    "timeWeek": 4334,
+    "timeMonth": 2395,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2024-09-01": 75,
-      "2024-08-23": 15,
-      "2023-09-14": 461
+      "2024-08-23": 15
     }
   },
   {
@@ -152,16 +151,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.63%",
     "time": 231,
-    "timeDay": 201,
-    "timeWeek": 212,
-    "timeMonth": 199,
+    "timeDay": 290,
+    "timeWeek": 230,
+    "timeMonth": 202,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2024-09-01": 74,
-      "2024-08-23": 15,
-      "2023-09-14": 461
+      "2024-08-23": 15
     }
   }
 ]
