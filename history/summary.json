@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "91.33%",
-    "time": 1516,
-    "timeDay": 779,
-    "timeWeek": 754,
-    "timeMonth": 862,
+    "time": 1515,
+    "timeDay": 879,
+    "timeWeek": 764,
+    "timeMonth": 854,
     "timeYear": 1571,
     "dailyMinutesDown": {
       "2025-03-23": 63,
@@ -74,8 +74,7 @@
       "2024-05-20": 59,
       "2024-05-18": 56,
       "2024-04-10": 52,
-      "2024-04-07": 55,
-      "2024-04-05": 50
+      "2024-04-07": 55
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "95.12%",
-    "time": 1421,
-    "timeDay": 1076,
-    "timeWeek": 967,
-    "timeMonth": 1018,
+    "time": 1420,
+    "timeDay": 910,
+    "timeWeek": 975,
+    "timeMonth": 1007,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2025-03-16": 60,
@@ -138,8 +137,7 @@
       "2024-05-20": 57,
       "2024-05-18": 56,
       "2024-05-16": 57,
-      "2024-04-07": 55,
-      "2024-04-05": 49
+      "2024-04-07": 55
     }
   },
   {
@@ -154,9 +152,9 @@
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
     "time": 570,
-    "timeDay": 266,
-    "timeWeek": 309,
-    "timeMonth": 363,
+    "timeDay": 319,
+    "timeWeek": 316,
+    "timeMonth": 354,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2025-03-14": 795,
@@ -176,10 +174,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
-    "time": 230,
-    "timeDay": 175,
-    "timeWeek": 185,
-    "timeMonth": 221,
+    "time": 229,
+    "timeDay": 203,
+    "timeWeek": 189,
+    "timeMonth": 218,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-03-14": 795,
