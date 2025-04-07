@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
     "status": "up",
-    "uptime": "96.42%",
+    "uptime": "96.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "91.34%",
     "time": 1515,
-    "timeDay": 965,
-    "timeWeek": 786,
-    "timeMonth": 862,
-    "timeYear": 1572,
+    "timeDay": 647,
+    "timeWeek": 782,
+    "timeMonth": 856,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-03-23": 63,
       "2025-03-14": 834,
@@ -73,8 +73,7 @@
       "2024-05-26": 61,
       "2024-05-20": 59,
       "2024-05-18": 56,
-      "2024-04-10": 52,
-      "2024-04-07": 55
+      "2024-04-10": 52
     }
   },
   {
@@ -88,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "95.13%",
-    "time": 1421,
-    "timeDay": 1444,
-    "timeWeek": 1041,
-    "timeMonth": 1024,
-    "timeYear": 1525,
+    "time": 1420,
+    "timeDay": 886,
+    "timeWeek": 1051,
+    "timeMonth": 1005,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2025-03-16": 60,
       "2025-03-14": 815,
@@ -136,8 +135,7 @@
       "2024-05-26": 60,
       "2024-05-20": 57,
       "2024-05-18": 56,
-      "2024-05-16": 57,
-      "2024-04-07": 55
+      "2024-05-16": 57
     }
   },
   {
@@ -151,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
-    "time": 570,
-    "timeDay": 333,
-    "timeWeek": 305,
-    "timeMonth": 353,
-    "timeYear": 631,
+    "time": 569,
+    "timeDay": 263,
+    "timeWeek": 306,
+    "timeMonth": 351,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-03-14": 795,
       "2025-03-13": 206,
@@ -175,9 +173,9 @@
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.79%",
     "time": 229,
-    "timeDay": 204,
-    "timeWeek": 190,
-    "timeMonth": 219,
+    "timeDay": 167,
+    "timeWeek": 188,
+    "timeMonth": 218,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-03-14": 795,
