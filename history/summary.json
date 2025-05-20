@@ -11,10 +11,10 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "91.25%",
     "time": 1483,
-    "timeDay": 900,
-    "timeWeek": 897,
-    "timeMonth": 899,
-    "timeYear": 1514,
+    "timeDay": 1000,
+    "timeWeek": 926,
+    "timeMonth": 890,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-05-17": 98,
       "2025-05-04": 189,
@@ -77,8 +77,7 @@
       "2024-06-18": 62,
       "2024-06-07": 61,
       "2024-06-05": 58,
-      "2024-05-26": 61,
-      "2024-05-20": 59
+      "2024-05-26": 61
     }
   },
   {
@@ -87,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "94.99%",
     "time": 1423,
-    "timeDay": 1195,
-    "timeWeek": 1149,
-    "timeMonth": 1127,
+    "timeDay": 1013,
+    "timeWeek": 1173,
+    "timeMonth": 1129,
     "timeYear": 1496,
     "dailyMinutesDown": {
       "2025-05-17": 96,
@@ -146,8 +145,7 @@
       "2024-06-18": 60,
       "2024-06-07": 60,
       "2024-06-05": 58,
-      "2024-05-26": 60,
-      "2024-05-20": 57
+      "2024-05-26": 60
     }
   },
   {
@@ -161,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.73%",
-    "time": 590,
-    "timeDay": 896,
-    "timeWeek": 829,
-    "timeMonth": 695,
-    "timeYear": 650,
+    "time": 591,
+    "timeDay": 879,
+    "timeWeek": 863,
+    "timeMonth": 712,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-05-04": 189,
       "2025-05-03": 82,
@@ -187,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.73%",
-    "time": 246,
-    "timeDay": 698,
-    "timeWeek": 655,
-    "timeMonth": 488,
-    "timeYear": 254,
+    "time": 247,
+    "timeDay": 721,
+    "timeWeek": 678,
+    "timeMonth": 505,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-05-04": 189,
       "2025-05-03": 82,
