@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "91.31%",
-    "time": 1412,
-    "timeDay": 997,
-    "timeWeek": 921,
+    "time": 1411,
+    "timeDay": 680,
+    "timeWeek": 877,
     "timeMonth": 893,
-    "timeYear": 1297,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2025-08-07": 126,
       "2025-08-06": 125,
@@ -67,8 +67,7 @@
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
-      "2024-09-06": 1377,
-      "2024-09-01": 77
+      "2024-09-06": 1377
     }
   },
   {
@@ -77,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "95.01%",
     "time": 1547,
-    "timeDay": 1225,
+    "timeDay": 953,
     "timeWeek": 986,
-    "timeMonth": 1386,
-    "timeYear": 1539,
+    "timeMonth": 1390,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2025-08-07": 124,
       "2025-08-06": 124,
@@ -129,8 +128,7 @@
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
-      "2024-09-06": 1376,
-      "2024-09-01": 75
+      "2024-09-06": 1376
     }
   },
   {
@@ -144,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.57%",
-    "time": 906,
-    "timeDay": 948,
-    "timeWeek": 875,
-    "timeMonth": 880,
-    "timeYear": 1103,
+    "time": 907,
+    "timeDay": 749,
+    "timeWeek": 857,
+    "timeMonth": 883,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-08-06": 122,
       "2025-08-05": 125,
@@ -162,8 +160,7 @@
       "2025-05-03": 82,
       "2025-04-17": 73,
       "2025-03-14": 795,
-      "2025-03-13": 206,
-      "2024-09-01": 75
+      "2025-03-13": 206
     }
   },
   {
@@ -177,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.66%",
-    "time": 520,
-    "timeDay": 825,
-    "timeWeek": 676,
-    "timeMonth": 657,
-    "timeYear": 667,
+    "time": 521,
+    "timeDay": 628,
+    "timeWeek": 668,
+    "timeMonth": 659,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-06": 121,
       "2025-08-04": 134,
@@ -192,8 +189,7 @@
       "2025-05-03": 82,
       "2025-04-17": 72,
       "2025-03-14": 795,
-      "2025-03-13": 205,
-      "2024-09-01": 74
+      "2025-03-13": 205
     }
   }
 ]
