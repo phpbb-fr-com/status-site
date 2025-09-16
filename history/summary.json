@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.79%",
-    "time": 1405,
-    "timeDay": 680,
-    "timeWeek": 925,
-    "timeMonth": 907,
-    "timeYear": 1156,
+    "uptimeYear": "94.06%",
+    "time": 1404,
+    "timeDay": 769,
+    "timeWeek": 919,
+    "timeMonth": 899,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-08-07": 126,
       "2025-08-06": 125,
@@ -56,8 +56,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -70,12 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "97.49%",
-    "time": 1542,
-    "timeDay": 997,
-    "timeWeek": 1047,
-    "timeMonth": 1004,
-    "timeYear": 1392,
+    "uptimeYear": "97.76%",
+    "time": 1541,
+    "timeDay": 827,
+    "timeWeek": 1036,
+    "timeMonth": 996,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-09-03": 28,
       "2025-08-07": 124,
@@ -108,8 +107,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -124,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 919,
-    "timeDay": 693,
-    "timeWeek": 880,
-    "timeMonth": 867,
-    "timeYear": 998,
+    "timeDay": 684,
+    "timeWeek": 865,
+    "timeMonth": 858,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2025-08-06": 122,
       "2025-08-05": 125,
@@ -156,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 598,
-    "timeDay": 564,
-    "timeWeek": 719,
-    "timeMonth": 675,
-    "timeYear": 689,
+    "timeDay": 570,
+    "timeWeek": 714,
+    "timeMonth": 671,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-08-06": 121,
       "2025-08-04": 134,
