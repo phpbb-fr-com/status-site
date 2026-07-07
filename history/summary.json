@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
     "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "70.75%",
-    "uptimeWeek": "66.53%",
-    "uptimeMonth": "59.81%",
-    "uptimeYear": "96.13%",
+    "uptime": "98.99%",
+    "uptimeDay": "65.23%",
+    "uptimeWeek": "65.74%",
+    "uptimeMonth": "59.63%",
+    "uptimeYear": "96.12%",
     "time": 1295,
     "timeDay": 874,
     "timeWeek": 1226,
@@ -51,7 +51,7 @@
       "2026-07-04": 372,
       "2026-07-05": 498,
       "2026-07-06": 469,
-      "2026-07-07": 15
+      "2026-07-07": 94
     }
   },
   {
@@ -61,10 +61,10 @@
     "slug": "forum-de-demonstration",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "72.08%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "60.76%",
-    "uptimeYear": "96.22%",
+    "uptimeDay": "66.55%",
+    "uptimeWeek": "66.94%",
+    "uptimeMonth": "60.58%",
+    "uptimeYear": "96.21%",
     "time": 1367,
     "timeDay": 857,
     "timeWeek": 948,
@@ -106,7 +106,7 @@
       "2026-07-04": 353,
       "2026-07-05": 478,
       "2026-07-06": 450,
-      "2026-07-07": 10
+      "2026-07-07": 90
     }
   },
   {
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.phpbb-fr.com.ico",
     "slug": "base-de-connaissance",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "73.41%",
-    "uptimeWeek": "68.92%",
-    "uptimeMonth": "61.76%",
-    "uptimeYear": "96.29%",
+    "uptime": "99.03%",
+    "uptimeDay": "67.88%",
+    "uptimeWeek": "68.13%",
+    "uptimeMonth": "61.58%",
+    "uptimeYear": "96.28%",
     "time": 1433,
     "timeDay": 1363,
     "timeWeek": 1226,
@@ -162,7 +162,7 @@
       "2026-07-04": 334,
       "2026-07-05": 458,
       "2026-07-06": 430,
-      "2026-07-07": 5
+      "2026-07-07": 85
     }
   },
   {
@@ -171,11 +171,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "php-bb-fr-dns-1",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "74.74%",
-    "uptimeWeek": "70.12%",
-    "uptimeMonth": "63.00%",
-    "uptimeYear": "96.29%",
+    "uptime": "99.03%",
+    "uptimeDay": "69.21%",
+    "uptimeWeek": "69.33%",
+    "uptimeMonth": "62.82%",
+    "uptimeYear": "96.28%",
     "time": 816,
     "timeDay": 1119,
     "timeWeek": 1033,
@@ -218,7 +218,7 @@
       "2026-07-04": 314,
       "2026-07-05": 441,
       "2026-07-06": 410,
-      "2026-07-07": 1
+      "2026-07-07": 80
     }
   }
 ]
