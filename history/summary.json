@@ -7,9 +7,9 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "55.27%",
-    "uptimeWeek": "63.17%",
-    "uptimeMonth": "60.03%",
-    "uptimeYear": "96.15%",
+    "uptimeWeek": "62.52%",
+    "uptimeMonth": "59.94%",
+    "uptimeYear": "96.14%",
     "time": 1279,
     "timeDay": 1013,
     "timeWeek": 1266,
@@ -51,7 +51,7 @@
       "2026-07-06": 469,
       "2026-07-07": 559,
       "2026-07-08": 648,
-      "2026-07-09": 15
+      "2026-07-09": 80
     }
   },
   {
@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
     "status": "down",
-    "uptime": "99.03%",
+    "uptime": "99.02%",
     "uptimeDay": "56.28%",
-    "uptimeWeek": "64.36%",
-    "uptimeMonth": "60.96%",
-    "uptimeYear": "96.24%",
+    "uptimeWeek": "63.72%",
+    "uptimeMonth": "60.87%",
+    "uptimeYear": "96.23%",
     "time": 1367,
     "timeDay": 1071,
     "timeWeek": 996,
@@ -106,7 +106,7 @@
       "2026-07-06": 450,
       "2026-07-07": 546,
       "2026-07-08": 634,
-      "2026-07-09": 10
+      "2026-07-09": 75
     }
   },
   {
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.phpbb-fr.com.ico",
     "slug": "base-de-connaissance",
     "status": "down",
-    "uptime": "99.04%",
+    "uptime": "99.03%",
     "uptimeDay": "57.28%",
-    "uptimeWeek": "65.55%",
-    "uptimeMonth": "61.95%",
-    "uptimeYear": "96.28%",
+    "uptimeWeek": "64.91%",
+    "uptimeMonth": "61.85%",
+    "uptimeYear": "96.27%",
     "time": 1441,
     "timeDay": 1299,
     "timeWeek": 1287,
@@ -162,7 +162,7 @@
       "2026-07-06": 430,
       "2026-07-07": 531,
       "2026-07-08": 619,
-      "2026-07-09": 6
+      "2026-07-09": 70
     }
   },
   {
@@ -173,9 +173,9 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "58.28%",
-    "uptimeWeek": "66.75%",
-    "uptimeMonth": "63.18%",
-    "uptimeYear": "96.36%",
+    "uptimeWeek": "66.11%",
+    "uptimeMonth": "63.07%",
+    "uptimeYear": "96.35%",
     "time": 823,
     "timeDay": 1235,
     "timeWeek": 1100,
@@ -218,7 +218,7 @@
       "2026-07-06": 410,
       "2026-07-07": 516,
       "2026-07-08": 605,
-      "2026-07-09": 1
+      "2026-07-09": 66
     }
   }
 ]
