@@ -4,16 +4,16 @@
     "url": "https://www.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb-fr.com.ico",
     "slug": "php-bb-fr-com",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "71.59%",
-    "uptimeMonth": "87.55%",
-    "uptimeYear": "98.96%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "72.84%",
+    "uptimeWeek": "70.53%",
+    "uptimeMonth": "87.31%",
+    "uptimeYear": "98.94%",
     "time": 1339,
-    "timeDay": 1009,
-    "timeWeek": 960,
-    "timeMonth": 1673,
+    "timeDay": 986,
+    "timeWeek": 958,
+    "timeMonth": 1668,
     "timeYear": 1375,
     "dailyMinutesDown": {
       "2026-08-08": 320,
@@ -29,7 +29,7 @@
       "2026-08-18": 439,
       "2026-08-19": 551,
       "2026-08-20": 353,
-      "2026-08-21": 212
+      "2026-08-21": 318
     }
   },
   {
@@ -37,17 +37,17 @@
     "url": "https://demo.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "81.32%",
-    "uptimeWeek": "76.36%",
-    "uptimeMonth": "84.36%",
-    "uptimeYear": "98.70%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "75.31%",
+    "uptimeMonth": "84.12%",
+    "uptimeYear": "98.68%",
     "time": 1338,
-    "timeDay": 951,
-    "timeWeek": 935,
-    "timeMonth": 1060,
-    "timeYear": 1310,
+    "timeDay": 931,
+    "timeWeek": 933,
+    "timeMonth": 1058,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2026-08-02": 375,
       "2026-08-03": 128,
@@ -68,7 +68,7 @@
       "2026-08-18": 363,
       "2026-08-19": 473,
       "2026-08-20": 308,
-      "2026-08-21": 169
+      "2026-08-21": 276
     }
   },
   {
@@ -76,16 +76,16 @@
     "url": "http://forum.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.phpbb-fr.com.ico",
     "slug": "base-de-connaissance",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "83.65%",
-    "uptimeWeek": "79.27%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "79.28%",
+    "uptimeWeek": "78.22%",
+    "uptimeMonth": "82.94%",
+    "uptimeYear": "98.58%",
     "time": 1457,
-    "timeDay": 1272,
-    "timeWeek": 1253,
-    "timeMonth": 1411,
+    "timeDay": 1242,
+    "timeWeek": 1249,
+    "timeMonth": 1409,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2026-07-29": 176,
@@ -111,7 +111,7 @@
       "2026-08-18": 280,
       "2026-08-19": 445,
       "2026-08-20": 280,
-      "2026-08-21": 145
+      "2026-08-21": 251
     }
   },
   {
@@ -119,16 +119,16 @@
     "url": "51.254.27.129",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "php-bb-fr-dns-1",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "82.09%",
-    "uptimeMonth": "82.09%",
-    "uptimeYear": "98.51%",
-    "time": 884,
-    "timeDay": 1061,
-    "timeWeek": 1122,
-    "timeMonth": 1175,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "81.30%",
+    "uptimeWeek": "81.04%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "98.49%",
+    "time": 885,
+    "timeDay": 1037,
+    "timeWeek": 1118,
+    "timeMonth": 1173,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2026-07-27": 309,
@@ -156,7 +156,7 @@
       "2026-08-18": 237,
       "2026-08-19": 377,
       "2026-08-20": 237,
-      "2026-08-21": 122
+      "2026-08-21": 228
     }
   }
 ]
