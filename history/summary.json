@@ -37,15 +37,15 @@
     "url": "https://demo.phpbb-fr.com",
     "icon": "https://icons.duckduckgo.com/ip3/demo.phpbb-fr.com.ico",
     "slug": "forum-de-demonstration",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.39%",
-    "uptimeYear": "98.70%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "84.33%",
+    "uptimeYear": "98.69%",
     "time": 1336,
-    "timeDay": 554,
-    "timeWeek": 844,
+    "timeDay": 735,
+    "timeWeek": 853,
     "timeMonth": 963,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -69,7 +69,7 @@
       "2026-08-19": 473,
       "2026-08-20": 308,
       "2026-08-21": 276,
-      "2026-08-31": 0
+      "2026-08-31": 25
     }
   },
   {
