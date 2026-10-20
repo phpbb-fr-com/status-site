@@ -8,7 +8,7 @@ sites:
   - name: Forum de démonstration
     url: https://demo.phpbb-fr.com
   - name: Base de connaissance
-    url: http://forum.phpbb-fr.com
+    url: https://forums.phpbb-fr.com/documentation/
   - name: phpBB-fr DNS 1
     url: 51.254.27.129
     port: 53
